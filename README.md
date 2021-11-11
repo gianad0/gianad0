@@ -1,5 +1,6 @@
 - i’m @gianad0
 - nice to meet you, whoever this is.
+- i'm only a beginner-intermediate in python.
 
 <!---
 gianad0/gianad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
