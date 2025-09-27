@@ -1,5 +1,5 @@
-Computer Science @ UofT Mississauga.
-good food is life
+- Computer Science @ UofT Mississauga.
+- good food is good life
 
 <!---
 gianad0/gianad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
