@@ -1,6 +1,5 @@
-- i’m @gianad0
-- nice to meet you, whoever this is.
-- i'm only a beginner-intermediate in python.
+Computer Science @ UofT Mississauga.
+good food is life
 
 <!---
 gianad0/gianad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
